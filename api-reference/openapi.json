@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "Wordwall API",
-    "description": "API for Wordwall activities",
+    "description": "API for sh.wham.xyz",
     "license": {
       "name": "MIT"
     },
